@@ -5,4 +5,4 @@ This code was created to be used with pre-calculated measures of modularity such
 
 # Citation
 
-Campbell-Cousins, A., Guazzo, F., Bastin, M., Parra, M. & Escudero, J. Multiplex Nodal Modularity: A novel network metric for the regional analysis of amnestic mild cognitive impairment during a working memory binding task. *arXiv* [LINK] (2025)
+Campbell-Cousins, A., Guazzo, F., Bastin, M., Parra, M. & Escudero, J. Multiplex Nodal Modularity: A novel network metric for the regional analysis of amnestic mild cognitive impairment during a working memory binding task. *arXiv* [LINK]. (2025)
