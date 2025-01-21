@@ -58,10 +58,11 @@ function [nQ, Q] = nodal_modularity(A, S, gamma, omega)
 % While potentially beneficial, nQ's interpretability and connection to standard
 % modularity may change significantly. 
 % 
-% Note that variables in this code mirror eq. x,y. in [cite nQ paper]
+% Note that variables in this code mirror eq. 2 and 4 in arXiv.2501.09805.
 % 
 % If you use this code please cite as:
-% [give citation]
+% Campbell-Cousins, A., Guazzo, F., Bastin, M., Parra, M. & Escudero, J. Multiplex Nodal Modularity: A novel network metric for the regional analysis 
+% of amnestic mild cognitive impairment during a working memory binding task. arXiv.2501.09805. 2025.
 %
 
 %% TO DO
