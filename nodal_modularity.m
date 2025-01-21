@@ -63,10 +63,6 @@ function [nQ, Q] = nodal_modularity(A, S, gamma, omega)
 % If you use this code please cite as:
 % Campbell-Cousins, A., Guazzo, F., Bastin, M., Parra, M. & Escudero, J. Multiplex Nodal Modularity: A novel network metric for the regional analysis 
 % of amnestic mild cognitive impairment during a working memory binding task. arXiv.2501.09805. 2025.
-%
-
-%% TO DO
-% include reference to nQ paper 
 
 %% 
 % initialize nQ
