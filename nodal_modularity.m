@@ -1,4 +1,4 @@
-function [nQ, Q] = nodalQ(A, S, gamma, omega) 
+function [nQ, Q] = nodal_modularity(A, S, gamma, omega) 
 %% 
 % Calculate the per node contribution to modularity (nodal modularity or
 % nQ) for a single or multi-layer network. 
